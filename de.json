@@ -1,0 +1,27 @@
+{
+  "locale": "de",
+  "translations": {
+    "menuItemHome": "Heim",
+    "menuItemUsers": "Benutzer",
+    "homePageSEOTitle": "Startseite",
+    "usersPageSEOTitle": "Benutzer",
+    "homePageTitle": "Internationalisierung",
+    "logoAlternativeText": "Angular logo",
+    "textWithoutAnElement": "Text ohne Element.",
+    "builtInPipesTitle": "Eingebaute Rohre",
+    "dateLabel": "Datum:",
+    "timeLabel": "Zeit:",
+    "currencyLabel": "Währung:",
+    "customPipesTitle": "Kundenspezifische Rohre",
+    "homePageSEODescription": "Meta-Beschreibung der Homepage",
+    "welcomeMessage": "Freut mich, Sie wiederzusehen, {$userFirstName} {$userLastName}.",
+    "usersTitle": "Benutzer",
+    "usersPageSEODescription": "Metabeschreibung der Benutzerseite",
+    "fullPageTitle": "{$pageTitle} | Anwendung",
+    "feedbackFormTitle": "Feedback-Formular",
+    "submitButton": "Einreichen",
+    "maleAddressing": "Herr.",
+    "femaleAddressing": "Frau",
+    "feedbackFormLabel": "Hinterlassen Sie Feedback, {$genderAddressing} {$userFirstName}"
+  }
+}
